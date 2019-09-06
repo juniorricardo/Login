@@ -1,0 +1,49 @@
+CREATE DATABASE ProgramacionNetDB
+GO
+
+USE [ProgramacionNetDB]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Usuarios](
+	[IdUsuario] [int] IDENTITY(1,1) NOT NULL,
+	[NombreUsuario] [varchar](50) NOT NULL,
+	[Password] [varchar](50) NOT NULL,
+	[Habilitado] [bit] NULL,
+ CONSTRAINT [PK_Usuarios] PRIMARY KEY CLUSTERED 
+(
+	[IdUsuario] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+INSERT INTO Usuarios VALUES('Juan','123',1)
+INSERT INTO Usuarios VALUES('Luis','123',1)
+INSERT INTO Usuarios VALUES('Maria','123',1)
+
+GO
+
+CREATE TABLE [dbo].[Personas](
+	[Dni] [int] NOT NULL,
+	[Nombre] [varchar](40) NULL,
+	[Apellido] [varchar](40) NULL,
+	[Direccion] [varchar](50) NULL,
+	[Edad] [nchar](10) NULL,
+ CONSTRAINT [PK_Personas] PRIMARY KEY CLUSTERED 
+(
+	[Dni] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+INSERT INTO PERSONAS VALUES(30658962,'Juan Manuel','Perez','Rivadavia 2565',21)
+INSERT INTO PERSONAS VALUES(28985412,'Diego','Thomassen','Callao 255',36)
+INSERT INTO PERSONAS VALUES(25698521,'Matias','Alarcon','Libertador 4165',55)
+INSERT INTO PERSONAS VALUES(36852144,'Guillermo','Nielsen','Paso 144',28)

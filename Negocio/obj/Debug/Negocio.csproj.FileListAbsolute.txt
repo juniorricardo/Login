@@ -1,0 +1,73 @@
+C:\Users\educacionit\Desktop\Clase 5\Negocio\bin\Debug\Negocio.dll
+C:\Users\educacionit\Desktop\Clase 5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\educacionit\Desktop\Clase 5\Negocio\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase 5\Negocio\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase 5\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase 5\Negocio\obj\Debug\Negocio.dll
+C:\Users\educacionit\Desktop\Clase 5\Negocio\obj\Debug\Negocio.pdb
+C:\Users\arzjtell\Desktop\Clase 5\Negocio\bin\Debug\Negocio.dll
+C:\Users\arzjtell\Desktop\Clase 5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\arzjtell\Desktop\Clase 5\Negocio\bin\Debug\Entidades.dll
+C:\Users\arzjtell\Desktop\Clase 5\Negocio\bin\Debug\Entidades.pdb
+C:\Users\arzjtell\Desktop\Clase 5\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\arzjtell\Desktop\Clase 5\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\arzjtell\Desktop\Clase 5\Negocio\obj\Debug\Negocio.dll
+C:\Users\arzjtell\Desktop\Clase 5\Negocio\obj\Debug\Negocio.pdb
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Negocio\bin\Debug\Negocio.dll
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Negocio\bin\Debug\Negocio.pdb
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Negocio\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Negocio\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Negocio\obj\Debug\Negocio.dll
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Negocio\obj\Debug\Negocio.pdb
+C:\Users\arzjtell\Desktop\Clase 6\Negocio\bin\Debug\Negocio.dll
+C:\Users\arzjtell\Desktop\Clase 6\Negocio\bin\Debug\Negocio.pdb
+C:\Users\arzjtell\Desktop\Clase 6\Negocio\bin\Debug\Entidades.dll
+C:\Users\arzjtell\Desktop\Clase 6\Negocio\bin\Debug\Entidades.pdb
+C:\Users\arzjtell\Desktop\Clase 6\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\arzjtell\Desktop\Clase 6\Negocio\obj\Debug\Negocio.dll
+C:\Users\arzjtell\Desktop\Clase 6\Negocio\obj\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\bin\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\bin\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\obj\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\obj\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Negocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\bin\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\bin\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\obj\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Negocio\obj\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\bin\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\bin\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\obj\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 10\Negocio\obj\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\bin\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\bin\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\obj\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 12\Negocio\obj\Debug\Negocio.pdb

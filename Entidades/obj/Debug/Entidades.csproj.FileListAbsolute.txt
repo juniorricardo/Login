@@ -1,0 +1,65 @@
+c:\users\educacionit\documents\visual studio 2015\Projects\ProgramacionNetSln\Entidades\bin\Debug\Entidades.dll
+c:\users\educacionit\documents\visual studio 2015\Projects\ProgramacionNetSln\Entidades\bin\Debug\Entidades.pdb
+c:\users\educacionit\documents\visual studio 2015\Projects\ProgramacionNetSln\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\educacionit\documents\visual studio 2015\Projects\ProgramacionNetSln\Entidades\obj\Debug\Entidades.dll
+c:\users\educacionit\documents\visual studio 2015\Projects\ProgramacionNetSln\Entidades\obj\Debug\Entidades.pdb
+C:\Users\arzjtell\Desktop\Clase 3\Entidades\bin\Debug\Entidades.dll
+C:\Users\arzjtell\Desktop\Clase 3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\arzjtell\Desktop\Clase 3\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\arzjtell\Desktop\Clase 3\Entidades\obj\Debug\Entidades.dll
+C:\Users\arzjtell\Desktop\Clase 3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase 3\Entidades\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase 3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase 3\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase 3\Entidades\obj\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase 3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\arzjtell\Desktop\Clase 4\Entidades\bin\Debug\Entidades.dll
+C:\Users\arzjtell\Desktop\Clase 4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\arzjtell\Desktop\Clase 4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\arzjtell\Desktop\Clase 4\Entidades\obj\Debug\Entidades.dll
+C:\Users\arzjtell\Desktop\Clase 4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase 5\Entidades\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase 5\Entidades\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase 5\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase 5\Entidades\obj\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase 5\Entidades\obj\Debug\Entidades.pdb
+C:\Users\arzjtell\Desktop\Clase 5\Entidades\bin\Debug\Entidades.dll
+C:\Users\arzjtell\Desktop\Clase 5\Entidades\bin\Debug\Entidades.pdb
+C:\Users\arzjtell\Desktop\Clase 5\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\arzjtell\Desktop\Clase 5\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\arzjtell\Desktop\Clase 5\Entidades\obj\Debug\Entidades.dll
+C:\Users\arzjtell\Desktop\Clase 5\Entidades\obj\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Entidades\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Entidades\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Entidades\obj\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\Entidades\obj\Debug\Entidades.pdb
+C:\Users\arzjtell\Desktop\Clase 6\Entidades\bin\Debug\Entidades.dll
+C:\Users\arzjtell\Desktop\Clase 6\Entidades\bin\Debug\Entidades.pdb
+C:\Users\arzjtell\Desktop\Clase 6\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\arzjtell\Desktop\Clase 6\Entidades\obj\Debug\Entidades.dll
+C:\Users\arzjtell\Desktop\Clase 6\Entidades\obj\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Entidades\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Entidades\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Entidades\obj\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\Entidades\obj\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Entidades\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Entidades\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Entidades\obj\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Entidades\obj\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\Entidades\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 10\Entidades\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 10\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 10\Entidades\obj\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 10\Entidades\obj\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\Entidades\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 12\Entidades\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 12\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 12\Entidades\obj\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 12\Entidades\obj\Debug\Entidades.pdb

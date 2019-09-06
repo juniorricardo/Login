@@ -1,0 +1,138 @@
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\PresentacionWF\bin\Debug\PresentacionWF.exe.config
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\PresentacionWF\bin\Debug\PresentacionWF.exe
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\PresentacionWF\bin\Debug\PresentacionWF.pdb
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.Form1.resources
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.Properties.Resources.resources
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.csproj.GenerateResource.Cache
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.exe
+C:\Users\educacionit\Desktop\Clase 06\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.pdb
+C:\Users\arzjtell\Desktop\Clase 6\PresentacionWF\bin\Debug\PresentacionWF.exe.config
+C:\Users\arzjtell\Desktop\Clase 6\PresentacionWF\bin\Debug\PresentacionWF.exe
+C:\Users\arzjtell\Desktop\Clase 6\PresentacionWF\bin\Debug\PresentacionWF.pdb
+C:\Users\arzjtell\Desktop\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.csprojResolveAssemblyReference.cache
+C:\Users\arzjtell\Desktop\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.Form1.resources
+C:\Users\arzjtell\Desktop\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.FrmLogin.resources
+C:\Users\arzjtell\Desktop\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.Properties.Resources.resources
+C:\Users\arzjtell\Desktop\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.csproj.GenerateResource.Cache
+C:\Users\arzjtell\Desktop\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.exe
+C:\Users\arzjtell\Desktop\Clase 6\PresentacionWF\obj\Debug\PresentacionWF.pdb
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\bin\Debug\PresentacionWF.exe.config
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\bin\Debug\PresentacionWF.exe
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\bin\Debug\PresentacionWF.pdb
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.Form1.resources
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.FrmLogin.resources
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.Properties.Resources.resources
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.csproj.GenerateResource.Cache
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.exe
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.pdb
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\bin\Debug\Negocio.dll
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\bin\Debug\Negocio.pdb
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.FrmMenuPrincipal.resources
+C:\Users\educacionit\Desktop\Clase 07\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.FrmCalculadora.resources
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\bin\Debug\PresentacionWF.exe.config
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.exe
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.pdb
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\bin\Debug\PresentacionWF.exe
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\bin\Debug\PresentacionWF.pdb
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\bin\Debug\Negocio.dll
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\bin\Debug\Negocio.pdb
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.Form1.resources
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.FrmCalculadora.resources
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.FrmLogin.resources
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.FrmMenuPrincipal.resources
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.Properties.Resources.resources
+C:\Users\educacionit\Desktop\Clase 07\PresentacionWF\obj\Debug\PresentacionWF.csproj.GenerateResource.Cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\bin\Debug\PresentacionWF.exe.config
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\bin\Debug\PresentacionWF.exe
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\bin\Debug\PresentacionWF.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\bin\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\bin\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.Form1.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.FrmCalculadora.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.FrmLogin.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.FrmMenuPrincipal.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.Properties.Resources.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.csproj.GenerateResource.Cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.exe
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\bin\Debug\AccesoDatos.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\bin\Debug\AccesoDatos.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\bin\Debug\AccesoDatos.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 09\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.FrmUsuarios.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\bin\Debug\PresentacionWF.exe.config
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\bin\Debug\PresentacionWF.exe
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\bin\Debug\PresentacionWF.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\bin\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\bin\Debug\AccesoDatos.dll
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\bin\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\bin\Debug\AccesoDatos.pdb
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\bin\Debug\AccesoDatos.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.Form1.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.FrmCalculadora.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.FrmLogin.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.FrmMenuPrincipal.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.FrmUsuarios.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.Properties.Resources.resources
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.csproj.GenerateResource.Cache
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.exe
+C:\Users\EducaciónIT\Desktop\Clase 09\PresentacionWF\obj\Debug\PresentacionWF.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\bin\Debug\PresentacionWF.exe.config
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\bin\Debug\PresentacionWF.exe
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\bin\Debug\PresentacionWF.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\bin\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\bin\Debug\AccesoDatos.dll
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\bin\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\bin\Debug\AccesoDatos.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\bin\Debug\AccesoDatos.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.Form1.resources
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.FrmCalculadora.resources
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.FrmLogin.resources
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.FrmMenuPrincipal.resources
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.FrmUsuarios.resources
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.Properties.Resources.resources
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.csproj.GenerateResource.Cache
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.exe
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.pdb
+C:\Users\EducaciónIT\Desktop\Clase 10\PresentacionWF\obj\Debug\PresentacionWF.FrmAltaPersona.resources
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\bin\Debug\PresentacionWF.exe.config
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\bin\Debug\PresentacionWF.exe
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\bin\Debug\PresentacionWF.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\bin\Debug\Entidades.dll
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\bin\Debug\Negocio.dll
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\bin\Debug\AccesoDatos.dll
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\bin\Debug\Entidades.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\bin\Debug\Negocio.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\bin\Debug\AccesoDatos.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\bin\Debug\AccesoDatos.dll.config
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.Form1.resources
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.FrmAltaPersona.resources
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.FrmCalculadora.resources
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.FrmLogin.resources
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.FrmMenuPrincipal.resources
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.FrmUsuarios.resources
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.Properties.Resources.resources
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.csproj.GenerateResource.Cache
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.exe
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.pdb
+C:\Users\EducaciónIT\Desktop\Clase 12\PresentacionWF\obj\Debug\PresentacionWF.FrmReportePersonas.resources
