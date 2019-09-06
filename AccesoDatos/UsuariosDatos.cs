@@ -36,11 +36,7 @@ namespace AccesoDatos
                     objConnection.Open();
                 }
 
-
                 int count = (int)objSqlCommand.ExecuteScalar();
-
-
-
 
                 //return (count > 0);
 
@@ -121,19 +117,10 @@ namespace AccesoDatos
             return objUsuario;
         }
 
-
-
-
-
         public DataTable BuscarUsuarioDS(Usuario usuario)
         {
            return (DataTable) new ProgramacionNetDSTableAdapters.UsuariosTableAdapter().BuscarUsuarioDS(usuario.NombreUsuario);
         }
-
-
-
-
-
 
         public void AgregarUsuario(Usuario usuario)
         {
@@ -154,8 +141,5 @@ namespace AccesoDatos
             objConnection.Close();
             
         }
-
-
-
     }
 }
